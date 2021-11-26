@@ -1,17 +1,17 @@
 <?php include('includes/header.php'); ?>	
 <form role="form">
 							<div class="form-group">
-								<label>Topic Title</label>
+								<label>Topic Titre</label>
 								<input type="text" class="form-control" name="title" placeholder="Enter Post Title">
 							</div>
 							<div class="form-group">
 								<label>Category</label>
 								<select class="form-control">
-									<option>Design</option>
-									<option>Development</option>
-									<option>Business & Marketing</option>
-									<option>Search Engines</option>
-									<option>Cloud & Hosting</option>
+									<option>génie informatique</option>
+									<option>technique de management</option>
+									<option>génie agroenvironnement</option>
+									<option>génie mecanique</option>
+									<option>genie electrique</option>
 							</select>
 							</div>
 								<div class="form-group">
